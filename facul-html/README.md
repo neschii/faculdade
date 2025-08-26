@@ -1,10 +1,1 @@
-Universidade Veiga de Almeida 
 
-SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS EAD
-
-Aluna: Manoella Pisaneschi 
-Matrícula: 1240115862
-Disciplina: DESENVOLVIMENTO DE APLICAÇÕES DISTRIBUÍDAS E WEB I
-
-
-Rio de Janeiro, 2025
